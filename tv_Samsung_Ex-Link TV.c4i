@@ -1,0 +1,439 @@
+<devicedata>
+  <version>7</version>
+  <config>
+    <power_command_delay>0</power_command_delay>
+    <power_delay>7</power_delay>
+    <power_management_method>DiscreteCodes</power_management_method>
+    <serialsettings>9600 8 none 1 none</serialsettings>
+    <serialsection>
+      <serialcodes>
+        <serialcode verified="False">
+          <id>106</id>
+          <name>Volume Up</name>
+          <serialdata>
+            <original>8 34 1 0 1 0 212</original>
+            <data>08 22 01 00 01 00 d4</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>24</id>
+          <name>#</name>
+          <serialdata>
+            <original />
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>153</id>
+          <name>PIP</name>
+          <serialdata>
+            <original />
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>152</id>
+          <name>Pulse Aspect Ratio</name>
+          <serialdata>
+            <original />
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>105</id>
+          <name>Channel Down</name>
+          <serialdata>
+            <original />
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>23</id>
+          <name>*</name>
+          <serialdata>
+            <original />
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>139</id>
+          <name>Mute Toggle</name>
+          <serialdata>
+            <original>8 34 2 0 0 0 212</original>
+            <data>08 22 02 00 00 00 d4</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>104</id>
+          <name>Channel Up</name>
+          <serialdata>
+            <original />
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>22</id>
+          <name>-</name>
+          <serialdata>
+            <original />
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>122</id>
+          <name>Recall</name>
+          <serialdata>
+            <original />
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>121</id>
+          <name>Cancel</name>
+          <serialdata>
+            <original>8 34 13 0 0 45 156</original>
+            <data>08 22 0d 00 00 2d 9c</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>120</id>
+          <name>Info</name>
+          <serialdata>
+            <original>8 34 13 0 0 31 170</original>
+            <data>08 22 0d 00 00 1f aa</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>30</id>
+          <name>Toggle Input</name>
+          <serialdata>
+            <original />
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>116</id>
+          <name>Right</name>
+          <serialdata>
+            <original>8 34 13 0 0 98 103</original>
+            <data>08 22 0d 00 00 62 67</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>115</id>
+          <name>Left</name>
+          <serialdata>
+            <original>8 34 13 0 0 101 100</original>
+            <data>08 22 0d 00 00 65 64</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>114</id>
+          <name>Down</name>
+          <serialdata>
+            <original>8 34 13 0 0 97 104</original>
+            <data>08 22 0d 00 00 61 68</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>113</id>
+          <name>Up</name>
+          <serialdata>
+            <original>8 34 13 0 0 96 105</original>
+            <data>08 22 0d 00 00 60 69</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>112</id>
+          <name>TV/Video</name>
+          <serialdata>
+            <original />
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>111</id>
+          <name>Enter</name>
+          <serialdata>
+            <original>8 34 13 0 0 104 97</original>
+            <data>08 22 0d 00 00 68 61</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>14</id>
+          <name>Number 4</name>
+          <serialdata>
+            <original />
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>109</id>
+          <name>BACK</name>
+          <serialdata>
+            <original>8 34 13 0 0 88 113</original>
+            <data>08 22 0d 00 00 58 71</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>108</id>
+          <name>Menu</name>
+          <serialdata>
+            <original>8 34 13 0 0 26 175</original>
+            <data>08 22 0d 00 00 1a af</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>18</id>
+          <name>Number 8</name>
+          <serialdata>
+            <original />
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>17</id>
+          <name>Number 7</name>
+          <serialdata>
+            <original />
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>16</id>
+          <name>Number 6</name>
+          <serialdata>
+            <original />
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>15</id>
+          <name>Number 5</name>
+          <serialdata>
+            <original />
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>103</id>
+          <name>Power Toggle</name>
+          <serialdata>
+            <original />
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>102</id>
+          <name>Power Off</name>
+          <serialdata>
+            <original>8 34 0 0 0 1 213</original>
+            <data>08 22 00 00 00 01 d5</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>12</id>
+          <name>Number 2</name>
+          <serialdata>
+            <original />
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>11</id>
+          <name>Number 1</name>
+          <serialdata>
+            <original />
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>10</id>
+          <name>Number 0</name>
+          <serialdata>
+            <original />
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>13</id>
+          <name>Number 3</name>
+          <serialdata>
+            <original />
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>101</id>
+          <name>Power On</name>
+          <serialdata>
+            <original>8 34 0 0 0 2 212</original>
+            <data>08 22 00 00 00 02 d4</data>
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>19</id>
+          <name>Number 9</name>
+          <serialdata>
+            <original />
+          </serialdata>
+        </serialcode>
+        <serialcode verified="False">
+          <id>107</id>
+          <name>Volume Down</name>
+          <serialdata>
+            <original>8 34 1 0 2 0 211</original>
+            <data>08 22 01 00 02 00 d3</data>
+          </serialdata>
+        </serialcode>
+      </serialcodes>
+      <serialcodemacros>
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_VOLUME</commandname>
+          <displayname>Set Volume</displayname>
+          <serialdata>
+            <original />
+          </serialdata>
+        </serialcodemacro>
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_INPUT_3</commandname>
+          <displayname>Set input HDMI 4</displayname>
+          <serialdata>
+            <original>8 34 10 0 5 3 196</original>
+            <data>08 22 0a 00 05 03 c4</data>
+          </serialdata>
+        </serialcodemacro>
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_INPUT_0</commandname>
+          <displayname>Set input HDMI 1</displayname>
+          <serialdata>
+            <original>8 34 10 0 5 0 199</original>
+            <data>08 22 0a 00 05 00 c7</data>
+          </serialdata>
+        </serialcodemacro>
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_INPUT_1</commandname>
+          <displayname>Set input HDMI 2</displayname>
+          <serialdata>
+            <original>8 34 10 0 5 1 198</original>
+            <data>08 22 0a 00 05 01 c6</data>
+          </serialdata>
+        </serialcodemacro>
+        <serialcodemacro verified="False" id="0">
+          <commandname>SET_INPUT_2</commandname>
+          <displayname>Set input HDMI 3</displayname>
+          <serialdata>
+            <original>8 34 10 0 5 2 197</original>
+            <data>08 22 0a 00 05 02 c5</data>
+          </serialdata>
+        </serialcodemacro>
+      </serialcodemacros>
+    </serialsection>
+  </config>
+  <name>Samsung Ex-Link TV 232</name>
+  <small>devices_sm/tv.gif</small>
+  <large>devices_lg/tv.gif</large>
+  <control>av_gen</control>
+  <controlmethod>serial</controlmethod>
+  <proxies>
+    <proxy proxybindingid="5001">tv</proxy>
+  </proxies>
+  <driver>100050</driver>
+  <manufacturer>Samsung</manufacturer>
+  <created>4/17/2024 7:25:07 PM</created>
+  <modified>4/18/2024 8:11:18 PM</modified>
+  <copyright>Copyright 2004-2005 Control4 Corporation.  All rights reserved.</copyright>
+  <creator>szz743@gmail.com</creator>
+  <model>Ex-Link TV</model>
+  <search_type>c4:av_gen</search_type>
+  <states />
+  <connections>
+    <connection>
+      <id>1002</id>
+      <type>5</type>
+      <connectionname>HDMI 3</connectionname>
+      <consumer>True</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>HDMI</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>1001</id>
+      <type>5</type>
+      <connectionname>HDMI 2</connectionname>
+      <consumer>True</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>HDMI</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>1000</id>
+      <type>5</type>
+      <connectionname>HDMI 1</connectionname>
+      <consumer>True</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>HDMI</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>7000</id>
+      <type>7</type>
+      <connectionname>Room Control</connectionname>
+      <consumer>False</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>AUDIO_SELECTION</classname>
+        </class>
+        <class>
+          <classname>VIDEO_SELECTION</classname>
+        </class>
+        <class>
+          <classname>AUDIO_VOLUME</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>5001</id>
+      <type>2</type>
+      <connectionname>TV</connectionname>
+      <consumer>False</consumer>
+      <linelevel>False</linelevel>
+      <classes>
+        <class>
+          <classname>TV</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>1</id>
+      <type>1</type>
+      <connectionname>Serial RS-232</connectionname>
+      <consumer>True</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>RS_232</classname>
+        </class>
+      </classes>
+    </connection>
+    <connection>
+      <id>1003</id>
+      <type>5</type>
+      <connectionname>HDMI 4</connectionname>
+      <consumer>True</consumer>
+      <linelevel>True</linelevel>
+      <classes>
+        <class>
+          <classname>HDMI</classname>
+        </class>
+      </classes>
+    </connection>
+  </connections>
+  <capabilities>
+    <audio_consumer_count>0</audio_consumer_count>
+    <audio_provider_count>0</audio_provider_count>
+    <has_audio>True</has_audio>
+    <has_channel_up_down>True</has_channel_up_down>
+    <has_discrete_input_select>True</has_discrete_input_select>
+    <has_discrete_volume_control>True</has_discrete_volume_control>
+    <has_toad_input_select>True</has_toad_input_select>
+    <has_toggle_mute_control>True</has_toggle_mute_control>
+    <has_up_down_volume_control>True</has_up_down_volume_control>
+    <requires_channel_after_input>True</requires_channel_after_input>
+    <video_consumer_count>4</video_consumer_count>
+    <video_provider_count>0</video_provider_count>
+  </capabilities>
+  <commands />
+  <conditionals />
+  <events />
+</devicedata>
