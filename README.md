@@ -1,5 +1,5 @@
 
-# Control4 driver for controlling Samsung TV via EX-LINK serial protocol
+### Control4 driver for controlling Samsung TV via EX-LINK serial protocol
 
 Tested with 55" Samsung Frame TV 2023 only.
 
